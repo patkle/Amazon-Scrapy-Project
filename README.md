@@ -3,7 +3,7 @@
 This project is configured to be hosted on [Scrapy Cloud](https://www.zyte.com/scrapy-cloud/).  
 It uses [Zyte Smart Proxy Manager](https://scrapinghub.com/?rfsn=4170080.0597ad) as proxy service.  
 The dataset can be found [here](https://www.kaggle.com/datasets/patkle/metal-music-ratings-and-review-counts-from-amazon).  
-A Jupyter Notebook with some EDA on that data can be found [here](https://www.kaggle.com/code/patkle/metal-ratings-from-amazon/edit).
+A Jupyter Notebook with some EDA on that data can be found [here](https://www.kaggle.com/code/patkle/metal-ratings-from-amazon).
 
 ## music
 
